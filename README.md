@@ -5,7 +5,7 @@
 
 🔭 **Prosjekt jeg jobber med nå:** [CyberTools](https://github.com/CyberNilsen/CyberTools)  
 🌱 **Lærer for øyeblikket:** Cybersikkerhet, C# og Python  
-💻 **Mine prosjekter:** [Min nettside](https://cybernilsen.github.io/Andreas-Nettside/)  
+💻 **Mine prosjekter:** [Min nettside](https://cybernilsen.github.io/Andreas-Nettside/), [CyberTools]([https://cybernilsen.github.io/Andreas-Nettside/](https://github.com/CyberNilsen/CyberTools)), , [CyberVault]([[https://cybernilsen.github.io/Andreas-Nettside/](https://github.com/CyberNilsen/CyberVault)
 📫 **Kontakt meg:** andreasnilsen07@hotmail.com  
 
 ---
