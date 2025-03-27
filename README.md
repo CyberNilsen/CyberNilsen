@@ -3,10 +3,19 @@
 
 🌟 Velkommen til GitHub-profilen min! Jeg er interessert i **cybersikkerhet, C# og Python**, og elsker å utforske nye teknologier. Jeg utvikler verktøy, løser problemer og deler kunnskap med andre.  
 
-🔭 **Prosjekt jeg jobber med nå:** [CyberTools](https://github.com/CyberNilsen/CyberTools)  
-🌱 **Lærer for øyeblikket:** Cybersikkerhet, C# og Python  
-💻 **Mine prosjekter:** [Min nettside](https://cybernilsen.github.io/Andreas-Nettside/), [CyberTools]([https://cybernilsen.github.io/Andreas-Nettside/](https://github.com/CyberNilsen/CyberTools)), , [CyberVault]([[https://cybernilsen.github.io/Andreas-Nettside/](https://github.com/CyberNilsen/CyberVault)
-📫 **Kontakt meg:** andreasnilsen07@hotmail.com  
+🔭 **Prosjekt jeg jobber med nå:**  
+[CyberTools](https://github.com/CyberNilsen/CyberTools) og [CyberVault](https://github.com/CyberNilsen/CyberVault)  
+
+🌱 **Lærer for øyeblikket:**  
+Cybersikkerhet, C# og Python  
+
+💻 **Mine prosjekter:**  
+- [Min nettside](https://cybernilsen.github.io/Andreas-Nettside/)  
+- [CyberTools](https://github.com/CyberNilsen/CyberTools)  
+- [CyberVault](https://github.com/CyberNilsen/CyberVault)  
+
+📫 **Kontakt meg:**  
+andreasnilsen07@hotmail.com  
 
 ---
 
