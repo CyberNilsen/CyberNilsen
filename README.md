@@ -1,26 +1,50 @@
-<h1 align="center">Hi 👋, I'm Andreas Nilsen</h1>
-<h3 align="center">A passionate programmer and cybersecurity enthusiast from Norway 🇳🇴</h3>
+# Hi 👋, I'm Andreas Nilsen
 
-🌟 Welcome to my GitHub profile! I'm interested in **cybersecurity, C#, and Python**, and I love exploring new technologies. I develop tools, solve problems, and share knowledge with others.  
+### A passionate programmer and cybersecurity enthusiast from Norway 🇳🇴
 
-🔭 **Current Projects I'm Working On:**  
-[CyberEncrypter](https://github.com/CyberNilsen/CyberEncrypter) and [CyberVault](https://github.com/CyberNilsen/CyberVault)  
-
-🌱 **Currently Learning:**  
-Cybersecurity, C#, C++ and Python  
-
-💻 **My Projects:**  
-- [My Website](https://cybernilsen.github.io/Andreas-Nettside/)
-- [CyberVault](https://github.com/CyberNilsen/CyberVault)
-- [CyberTools](https://github.com/CyberNilsen/CyberTools)  
-- [CyberEncrypter](https://github.com/CyberNilsen/CyberEncrypter)
-
-📫 **Contact Me:**  
-andreasnilsen07@hotmail.com  
+Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, and **Python**. I enjoy exploring new technologies, developing tools, solving problems, and sharing knowledge with others.
 
 ---
 
-### **🔧 Languages & Tools:**  
+## 🌟 Current Projects
+
+🔭 **Currently working on:**  
+- [**CyberEncrypter**](https://github.com/CyberNilsen/CyberEncrypter)
+- [**CyberVault**](https://github.com/CyberNilsen/CyberVault)
+
+---
+
+## 🌱 What I’m Learning
+
+- Cybersecurity
+- **C#**
+- **C++**
+- **Python**
+
+---
+
+## 💻 My Projects
+
+Here are some of the key projects I've been working on:
+
+- [**My Website**](https://cybernilsen.github.io/Andreas-Nettside/)  
+- [**CyberVault**](https://github.com/CyberNilsen/CyberVault)  
+- [**CyberTools**](https://github.com/CyberNilsen/CyberTools)  
+- [**CyberEncrypter**](https://github.com/CyberNilsen/CyberEncrypter)
+
+---
+
+## 📫 Contact Me
+
+Feel free to reach out via email:  
+[andreasnilsen07@hotmail.com](mailto:andreasnilsen07@hotmail.com)
+
+---
+
+## 🔧 Languages & Tools
+
+Here are the tools and languages I'm proficient with:
+
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
@@ -34,7 +58,15 @@ andreasnilsen07@hotmail.com
 
 ---
 
-### **📊 GitHub Stats:**  
+## 📊 GitHub Stats
+
+Here’s a quick snapshot of my GitHub activity and contributions:
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CyberNilsen&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
+
+---
+
+> **Developed with curiosity and passion**  
+> *Andreas (CyberNilsen)*
