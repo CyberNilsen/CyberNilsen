@@ -1,25 +1,25 @@
-<h1 align="center">Hei 👋, jeg er Andreas Nilsen</h1>
-<h3 align="center">En lidenskapelig programmerer og cybersikkerhetsentusiast fra Norge 🇳🇴</h3>
+<h1 align="center">Hi 👋, I'm Andreas Nilsen</h1>
+<h3 align="center">A passionate programmer and cybersecurity enthusiast from Norway 🇳🇴</h3>
 
-🌟 Velkommen til GitHub-profilen min! Jeg er interessert i **cybersikkerhet, C# og Python**, og elsker å utforske nye teknologier. Jeg utvikler verktøy, løser problemer og deler kunnskap med andre.  
+🌟 Welcome to my GitHub profile! I'm interested in **cybersecurity, C#, and Python**, and I love exploring new technologies. I develop tools, solve problems, and share knowledge with others.  
 
-🔭 **Prosjekt jeg jobber med nå:**  
-[CyberTools](https://github.com/CyberNilsen/CyberTools) og [CyberVault](https://github.com/CyberNilsen/CyberVault)  
+🔭 **Current Projects I'm Working On:**  
+[CyberTools](https://github.com/CyberNilsen/CyberTools) and [CyberVault](https://github.com/CyberNilsen/CyberVault)  
 
-🌱 **Lærer for øyeblikket:**  
-Cybersikkerhet, C# og Python  
+🌱 **Currently Learning:**  
+Cybersecurity, C#, and Python  
 
-💻 **Mine prosjekter:**  
-- [Min nettside](https://cybernilsen.github.io/Andreas-Nettside/)  
+💻 **My Projects:**  
+- [My Website](https://cybernilsen.github.io/Andreas-Nettside/)  
 - [CyberTools](https://github.com/CyberNilsen/CyberTools)  
 - [CyberVault](https://github.com/CyberNilsen/CyberVault)  
 
-📫 **Kontakt meg:**  
+📫 **Contact Me:**  
 andreasnilsen07@hotmail.com  
 
 ---
 
-### **🔧 Språk og verktøy:**  
+### **🔧 Languages & Tools:**  
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
@@ -33,7 +33,7 @@ andreasnilsen07@hotmail.com
 
 ---
 
-### **📊 GitHub-statistikk:**  
+### **📊 GitHub Stats:**  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberNilsen&show_icons=true&theme=dark" alt="GitHub-statistikk"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberNilsen&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
