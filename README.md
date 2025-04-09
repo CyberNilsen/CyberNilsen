@@ -7,7 +7,7 @@
 [CyberEncrypter](https://github.com/CyberNilsen/CyberEncrypter) and [CyberVault](https://github.com/CyberNilsen/CyberVault)  
 
 🌱 **Currently Learning:**  
-Cybersecurity, C#, and Python  
+Cybersecurity, C#, C++ and Python  
 
 💻 **My Projects:**  
 - [My Website](https://cybernilsen.github.io/Andreas-Nettside/)
