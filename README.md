@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 ## 🌟 Current Projects
 
 🔭 **Currently working on:**  
-- [**CyberEncrypter**](https://github.com/CyberNilsen/CyberEncrypter)
 - [**CyberVault**](https://github.com/CyberNilsen/CyberVault)
 
 ---
