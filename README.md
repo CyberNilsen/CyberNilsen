@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 
 🔭 **Currently working on:**  
 - [**CyberVault**](https://github.com/CyberNilsen/CyberVault)
-- [**Ransomware**](https://github.com/CyberNilsen/Ransomware)
 
 ---
 
@@ -31,6 +30,7 @@ Here are some of the key projects I've been working on:
 - [**CyberVault**](https://github.com/CyberNilsen/CyberVault)  
 - [**CyberTools**](https://github.com/CyberNilsen/CyberTools)  
 - [**CyberEncrypter**](https://github.com/CyberNilsen/CyberEncrypter)
+- [**Ransomware**](https://github.com/CyberNilsen/Ransomware)
 
 ---
 
