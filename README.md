@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 
 🔭 **Currently working on:**  
 - [**CyberVault**](https://github.com/CyberNilsen/CyberVault)
-- [**Remote Acess Trojan (RAT)**](https://github.com/CyberNilsen/Remote-Access-Trojan)
 
 ---
 
