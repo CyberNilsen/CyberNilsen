@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 
 🔭 **Currently working on:**  
 - [**CyberVault**](https://github.com/CyberNilsen/CyberVault)
+- [**Wifi Commands for Kali**](https://github.com/CyberNilsen/Wifi-Commands-Kali)
 
 ---
 
@@ -40,8 +41,11 @@ Here are some of the key projects I've been working on:
   -A learning project focused on understanding ransomware behaviors (strictly for educational purposes)
 - [**Remote Acess Trojan (RAT)**](https://github.com/CyberNilsen/Remote-Access-Trojan)
   -An experiment in building a simple RAT (Remote Access Trojan) for educational penetration testing.
+- [**Wifi Commands for Kali**](https://github.com/CyberNilsen/Wifi-Commands-Kali)
+  -A program that contains commands for wifi pentesting that is simplified.
 
 ---
+
 
 ## 📫 Contact Me
 
