@@ -28,6 +28,8 @@ Here are some of the key projects I've been working on:
 
 - [**My Website**](https://cybernilsen.github.io/Andreas-Nettside/)
   -Personal website showcasing my work, about me, and how to contact me.
+- [**School project PHP**]((https://github.com/CyberNilsen/Oppdag-Norge-databasenettside)
+   -School project where i learned about PHP and how to secure a login page.
 - [**CyberVault**](https://github.com/CyberNilsen/CyberVault)
   -A simple yet secure vault for managing passwords and other tools that are useful.
 - [**CyberTools**](https://github.com/CyberNilsen/CyberTools)
