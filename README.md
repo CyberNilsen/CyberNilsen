@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 
 🔭 **Currently working on:**  
 - [**CyberVault**](https://github.com/CyberNilsen/CyberVault)
-- [**Wifi Commands for Kali**](https://github.com/CyberNilsen/Wifi-Commands-Kali)
 
 ---
 
@@ -35,8 +34,6 @@ Here are some of the key projects I've been working on:
   -A simple yet secure vault for managing passwords and other tools that are useful.
 - [**CyberTools**](https://github.com/CyberNilsen/CyberTools)
   -A collection of useful cybersecurity tools built in C# and Python.
-- [**CyberEncrypter**](https://github.com/CyberNilsen/CyberEncrypter)
-  -An encryption tool that aims to simplify secure file storage with advanced encryption algorithms.
 - [**Ransomware**](https://github.com/CyberNilsen/Ransomware)
   -A learning project focused on understanding ransomware behaviors (strictly for educational purposes)
 - [**Remote Acess Trojan (RAT)**](https://github.com/CyberNilsen/Remote-Access-Trojan)
