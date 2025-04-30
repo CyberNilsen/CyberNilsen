@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 
 🔭 **Currently working on:**  
 - [**CyberVault**](https://github.com/CyberNilsen/CyberVault)
-- [**USB Monitor**](https://github.com/CyberNilsen/USB-Monitor)
 
 ---
 
