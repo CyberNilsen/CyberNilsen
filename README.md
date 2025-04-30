@@ -33,8 +33,8 @@ Here are some of the key projects I've been working on:
    -School project where i learned about PHP and how to secure a login page.
 - [**CyberVault**](https://github.com/CyberNilsen/CyberVault)
   -A simple yet secure vault for managing passwords and other tools that are useful.
-  -[**CyberVault Website](https://github.com/CyberNilsen/CyberVault-website)
-  -Website for CyberVault
+    - [**CyberVault Website**](https://github.com/CyberNilsen/CyberVault-website)
+    -Website for CyberVault
 - [**CyberTools**](https://github.com/CyberNilsen/CyberTools)
   -A collection of useful cybersecurity tools built in C# and Python.
 - [**Ransomware**](https://github.com/CyberNilsen/Ransomware)
