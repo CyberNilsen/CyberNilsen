@@ -45,7 +45,7 @@ Here are some of the key projects I've been working on:
 - [**USB Monitor**](https://github.com/CyberNilsen/USB-Monitor)
   -USB Monitor is a **Windows-based utility** designed to enhance security by allowing you to monitor, manage, and control USB device connections.
 - [**C++ projects**](https://github.com/CyberNilsen/CPP-projects)
-  -Here i am exploring c++ and learning c++ in general.
+   -Here i am exploring c++ and learning c++ in general.
 
 ---
 
