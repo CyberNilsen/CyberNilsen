@@ -43,7 +43,9 @@ Here are some of the key projects I've been working on:
 - [**Wifi Commands for Kali**](https://github.com/CyberNilsen/Wifi-Commands-Kali)
   -A program that contains commands for wifi pentesting that is simplified.
 - [**USB Monitor**](https://github.com/CyberNilsen/USB-Monitor)
-  -USB Monitor is a **Windows-based utility** designed to enhance security by allowing you to monitor, manage, and control USB device connections. 
+  -USB Monitor is a **Windows-based utility** designed to enhance security by allowing you to monitor, manage, and control USB device connections.
+- [**C++ projects**](https://github.com/CyberNilsen/CPP-projects)
+  -Here i am exploring c++ and learning c++ in general.
 
 ---
 
