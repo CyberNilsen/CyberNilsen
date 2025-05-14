@@ -45,33 +45,25 @@ Here are some of the key projects I've been working on:
 - [**USB Monitor**](https://github.com/CyberNilsen/USB-Monitor)
   -USB Monitor is a **Windows-based utility** designed to enhance security by allowing you to monitor, manage, and control USB device connections.
 - [**C++ projects**](https://github.com/CyberNilsen/CPP-projects)
-   -Here i am exploring c++ and learning c++ in general.
+   -Exploring and learning C++ through hands-on mini-projects.
 
 
 ---
 
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
-Feel free to reach out via email:  
-[andreasnilsen07@hotmail.com](mailto:andreasnilsen07@hotmail.com)
+- 💌 Email: [andreasnilsen07@hotmail.com](mailto:andreasnilsen07@hotmail.com)
+- 🌐 Website: [cybernilsen.github.io](https://cybernilsen.github.io/Andreas-Nettside/)
 
 ---
 
-## 🔧 Languages & Tools
+## 🚀 Languages & Tools
 
-Here are the tools and languages I'm proficient with:
-
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-</p>
+- 💻 C#, Python, C++, PHP
+- 🛠️ HTML, CSS, MySQL
+- 🔐 Cybersecurity, Kali Linux, Windows Security Tools
+- 🔧 Git, GitHub, Visual Studio, VS Code
 
 ---
 
@@ -82,6 +74,8 @@ Here’s a quick snapshot of my GitHub activity and contributions:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CyberNilsen&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CyberNilsen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
