@@ -60,7 +60,7 @@ Here are some of the key projects I've been working on:
 
 - 💻 C#, Python, C++, PHP  
 - 🛠️ HTML, CSS, MySQL  
-- 🔐 Cybersecurity, Kali Linux, Windows Security Tools  
+- 🔐 Kali Linux, Windows Security Tools and wifi pentesting
 - 🔧 Git, GitHub, Visual Studio, VS Code
 
 ---
