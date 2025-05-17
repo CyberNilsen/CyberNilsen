@@ -66,11 +66,11 @@ Here are some of the key projects I've been working on:
 ## 🗄️ Databases
 I'm familiar with working with databases in various projects:
 
-MySQL — Used in several web and desktop applications for secure and efficient data storage.
+- MySQL — Used in web applications for secure and efficient data storage.
 
-SQLite — Lightweight database often used in local applications (e.g., tools within CyberVault).
+- SQLite — Lightweight database often used in local applications.
 
-MariaDB (basic experience) — Explored during backend development and testing.
+- MariaDB (basic experience) — Explored during backend development and testing.
 
 ---
 
