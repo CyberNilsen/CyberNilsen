@@ -63,6 +63,15 @@ Here are some of the key projects I've been working on:
 - 🔐 Kali Linux, Windows Security Tools and wifi pentesting
 - 🔧 Git, GitHub, Visual Studio, VS Code
 
+## 🗄️ Databases
+I'm familiar with working with databases in various projects:
+
+MySQL — Used in several web and desktop applications for secure and efficient data storage.
+
+SQLite — Lightweight database often used in local applications (e.g., tools within CyberVault).
+
+MariaDB (basic experience) — Explored during backend development and testing.
+
 ---
 
 ## 📊 GitHub Stats
