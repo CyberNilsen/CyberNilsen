@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 - **C#**
 - **C++**
 - **Python**
+- **Rust**
 
 ---
 
