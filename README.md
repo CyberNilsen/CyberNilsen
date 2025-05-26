@@ -68,7 +68,7 @@ Here are some of the key projects I've been working on:
 
 ## 🚀 Languages & Tools
 
-- 💻 C#, Python, C++, PHP  
+- 💻 C#, Python, C++, PHP, Rust  
 - 🛠️ HTML, CSS, MySQL  
 - 🔐 Kali Linux, Windows Security Tools and wifi pentesting
 - 🔧 Git, GitHub, Visual Studio, VS Code
