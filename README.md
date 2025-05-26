@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 Here are some of the key projects I've been working on:
 
 - [**CyberVault**](https://github.com/CyberNilsen/CyberVault) <br>- A secure vault for managing passwords and other tools.<br>
-  • [**CyberVault Website**](https://github.com/CyberNilsen/CyberVault-website) – Website for the CyberVault program<br>
-  • [**CyberVault Extension**](https://github.com/CyberNilsen/CyberVaultExtension) – Extension for the CyberVault program
+  • [**CyberVault Website**](https://github.com/CyberNilsen/CyberVault-website)<br> – Website for the CyberVault program<br>
+  • [**CyberVault Extension**](https://github.com/CyberNilsen/CyberVaultExtension)<br> – Extension for the CyberVault program
 
 - [**CyberTools**](https://github.com/CyberNilsen/CyberTools)  
   A collection of cybersecurity tools built with C# and Python.
