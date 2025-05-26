@@ -10,6 +10,10 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 
 🔭 **Currently working on:**  
 - [**CyberVault**](https://github.com/CyberNilsen/CyberVault) — A secure password manager and tools suite.
+- [**C++ Projects**](https://github.com/CyberNilsen/CPP-projects)  
+  Exploring and learning C++ through mini-projects.
+- [**Rust Projects**](  https://github.com/CyberNilsen/Rust)  
+  Exploring and learning Rust through mini-projects.
 
 ---
 
