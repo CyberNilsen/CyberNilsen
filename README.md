@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 - [**CyberVault**](https://github.com/CyberNilsen/CyberVault) — A secure password manager and tools suite. <br>
 - [**C++ Projects**](https://github.com/CyberNilsen/CPP-projects) — Exploring and learning C++ through mini-projects. <br>
 - [**Rust Projects**](  https://github.com/CyberNilsen/Rust) — Exploring and learning Rust through mini-projects.
+- [**RoachBuddy**](https://github.com/CyberNilsen/RoachBuddy) — Creating a BonziBuddy like copy but a little diffrent.
 
 ---
 
