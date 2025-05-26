@@ -49,6 +49,9 @@ Here are some of the key projects I've been working on:
 - [**C++ Projects**](https://github.com/CyberNilsen/CPP-projects)  
   Exploring and learning C++ through mini-projects.
 
+- [**Rust Projects**](  https://github.com/CyberNilsen/Rust)  
+  Exploring and learning Rust through mini-projects.
+
 - [**My Website**](https://cybernilsen.github.io/Andreas-Nettside/)  
   A personal website showcasing my work and contact info.
 
