@@ -84,15 +84,14 @@ I'm familiar with working with databases in various projects:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=CyberNilsen)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberNilsen&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberNilsen&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CyberNilsen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
+## GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberNilsen&theme=dark)
 
 ## 📫 Connect With Me
 
