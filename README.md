@@ -10,9 +10,6 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 
 🔭 **Currently working on:**  
 - [**CyberChat**](https://github.com/CyberNilsen/CyberChat) — A secure Chatting program. <br>
-- [**RoachBuddy**](https://github.com/CyberNilsen/RoachBuddy) — Creating a BonziBuddy like copy but a little diffrent. <br>
-- [**C++ Projects**](https://github.com/CyberNilsen/CPP-projects) — Exploring and learning C++ through mini-projects. <br>
-- [**Rust Projects**](  https://github.com/CyberNilsen/Rust) — Exploring and learning Rust through mini-projects.
 
 ---
 
