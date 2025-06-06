@@ -34,7 +34,8 @@ Here are some of the key projects I've been working on:
 
 | Project | Description | Preview |
 |---|---|---|
-| [**CyberVault**](https://github.com/CyberNilsen/CyberVault) | Secure vault for managing passwords and tools | ![CyberVault](https://private-user-images.githubusercontent.com/124470447/448495776-ad8568e6-56e0-4c2e-8e61-1d12526c7188.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkyMzA4OTEsIm5iZiI6MTc0OTIzMDU5MSwicGF0aCI6Ii8xMjQ0NzA0NDcvNDQ4NDk1Nzc2LWFkODU2OGU2LTU2ZTAtNGMyZS04ZTYxLTFkMTI1MjZjNzE4OC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwNlQxNzIzMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNmNjZTEyMTgyMDViZmY2NDEyMTRiYzQzOGVkZGE0NWRiNzVlNWJiZDk1MGI1NmY0ZGY0Mjg2MDMyYWUyMmZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.J0oOQ7D2OleTy9yGPuDIh__H6ioTnCgmq0iA-Qyj3Ss) |
+| [**CyberVault**](https://github.com/CyberNilsen/CyberVault) | Secure vault for managing passwords and other tools.<br> • [CyberVault Website](https://github.com/CyberNilsen/CyberVault-website): Website for the program<br> • [CyberVault Extension](https://github.com/CyberNilsen/CyberVaultExtension): Browser extension | ![CyberVault](assets/cybervault-demo.gif) |
+| [**CyberChat**](https://github.com/CyberNilsen/CyberChat) | Secure chatting program focused on privacy and encryption. | ![CyberChat](assets/cyberchat-demo.gif) |
 
 - [**CyberTools**](https://github.com/CyberNilsen/CyberTools)  
   A collection of cybersecurity tools built with C# and Python.
