@@ -35,8 +35,8 @@ Here are some of the key projects I've been working on:
   <details>
     <summary>Show more</summary>
   
-    - [Website](https://github.com/CyberNilsen/CyberVault-website)
-    - [Extension](https://github.com/CyberNilsen/CyberVault-Extension)
+    - [Website](https://github.com/CyberNilsen/CyberVault-website) - Website of the CyberVault program
+    - [Extension](https://github.com/CyberNilsen/CyberVaultExtension) - A secure browser extension that integrates with the CyberVault password manager to provide seamless password management directly in your browser.
   <br>
     <img src="https://github.com/user-attachments/assets/ad8568e6-56e0-4c2e-8e61-1d12526c7188" width="600"/>
   </details>
