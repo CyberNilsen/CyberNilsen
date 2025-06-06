@@ -36,7 +36,7 @@ Here are some of the key projects I've been working on:
 
 | Project | Description | Preview |
 |---|---|---|
-| [**CyberVault**](https://github.com/CyberNilsen/CyberVault) | Secure vault for managing passwords and other tools.<br> • [CyberVault Website](https://github.com/CyberNilsen/CyberVault-website): Website for the program<br> • [CyberVault Extension](https://github.com/CyberNilsen/CyberVaultExtension): Browser extension | ![CyberVault](assets/cybervault-demo.gif) |
+| [**CyberVault**](https://github.com/CyberNilsen/CyberVault) | Secure vault for managing passwords and other tools. <br> • [CyberVault Website](https://github.com/CyberNilsen/CyberVault-website): Website for the program<br> • [CyberVault Extension](https://github.com/CyberNilsen/CyberVaultExtension): Browser extension | ![CyberVault](assets/cybervault-demo.gif) |
 | [**CyberTools**](https://github.com/CyberNilsen/CyberTools) | A collection of cybersecurity tools built with C# and Python.<br> Tools to assist with security auditing, automation, and penetration testing. | ![CyberTools](assets/cybertools-demo.gif) |
 | [**USB Monitor**](https://github.com/CyberNilsen/USB-Monitor) | A Windows utility to monitor and control USB device connections.<br> Receive alerts, block/allow devices, and improve USB security. | ![USB Monitor](assets/usb-monitor-demo.gif) |
 | [**Remote Access Trojan (RAT)**](https://github.com/CyberNilsen/Remote-Access-Trojan) | Educational RAT project for learning about remote access and pentesting.<br> Demonstrates remote control, file transfer, and command execution. | ![RAT](assets/rat-demo.gif) |
