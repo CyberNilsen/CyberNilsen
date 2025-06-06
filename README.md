@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 
 | Project | Description |
 |---------|-------------|
-| [CyberVault](https://github.com/CyberNilsen/CyberVault) | Password & secrets manager ([CyberVault Website](https://github.com/CyberNilsen/CyberVault-website), [Google Extension](https://github.com/CyberNilsen/CyberVaultExtension)) |
+| [CyberVault](https://github.com/CyberNilsen/CyberVault) | Password manager ([CyberVault Website](https://github.com/CyberNilsen/CyberVault-website), [Google Extension](https://github.com/CyberNilsen/CyberVaultExtension)) |
 | [CyberTools](https://github.com/CyberNilsen/CyberTools) | Cybersecurity tool collection (C#, Python) |
 | [USB Monitor](https://github.com/CyberNilsen/USB-Monitor) | Monitor/control USB device connections on Windows |
 | [RoachBuddy](https://github.com/CyberNilsen/RoachBuddy) | BonziBuddy-style fun desktop companion |
