@@ -34,11 +34,11 @@ Here are some of the key projects I've been working on:
 - **[CyberVault](https://github.com/CyberNilsen/CyberVault)** — Secure vault for managing passwords and other tools  
   <details>
     <summary>Show more</summary>
-  <br>
+  
     - [Website](https://github.com/CyberNilsen/CyberVault-website)
     - [Extension](https://github.com/CyberNilsen/CyberVault-Extension)
-
-    <img src="https://github.com/user-attachments/assets/ad8568e6-56e0-4c2e-8e61-1d12526c7188" width="350"/>
+  <br>
+    <img src="https://github.com/user-attachments/assets/ad8568e6-56e0-4c2e-8e61-1d12526c7188" width="600"/>
   </details>
 
 - **[CyberTools](https://github.com/CyberNilsen/CyberTools)** — Cybersecurity tools built with C# and Python  
