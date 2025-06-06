@@ -87,11 +87,16 @@ I'm familiar with working with databases in various projects:
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberNilsen&show_icons=true&theme=dark" alt="GitHub Stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberNilsen&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=CyberNilsen&theme=dark" alt="GitHub Streak" height="150"/>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CyberNilsen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CyberNilsen&theme=onedark&row=1&column=7" alt="Trophies"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberNilsen&theme=github-compact" alt="Contribution Graph"/>
+</p>
 
 ---
 
