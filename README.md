@@ -33,12 +33,9 @@ Here are some of the key projects I've been working on:
 
 | Project | Description | Preview |
 |---|---|---|
-| [**CyberVault**](https://github.com/CyberNilsen/CyberVault) | Secure vault for managing passwords and other tools.<br> • [CyberVault Website](https://github.com/CyberNilsen/CyberVault-website): Website for the program<br> • [CyberVault Extension](https://github.com/CyberNilsen/CyberVault-Extension) | ![CyberVault Preview](https://github.com/user-attachments/assets/ad8568e6-56e0-4c2e-8e61-1d12526c7188) 
-|
-| [**CyberTools**](https://github.com/CyberNilsen/CyberTools) | A collection of cybersecurity tools built with C# and Python.<br> Tools to assist with security auditing, automation, and penetration testing. | ![CyberTools](assets/cybertools-demo.gif) |
-
+| [**CyberVault**](https://github.com/CyberNilsen/CyberVault) | Secure vault for managing passwords and other tools.<br> • [CyberVault Website](https://github.com/CyberNilsen/CyberVault-website): Website for the program<br> • [CyberVault Extension](https://github.com/CyberNilsen/CyberVault-Extension) | ![CyberVault Preview](https://github.com/user-attachments/assets/ad8568e6-56e0-4c2e-8e61-1d12526c7188) |
+| [**CyberTools**](https://github.com/CyberNilsen/CyberTools) | A collection of cybersecurity tools built with C# and Python.<br> Tools to assist with security auditing, automation, and penetration testing. | ![CyberTools](https://cybernilsen.github.io/Andreas-Nettside/Images/CyberToolsV2.png) |
 | [**USB Monitor**](https://github.com/CyberNilsen/USB-Monitor) | A Windows utility to monitor and control USB device connections.<br> Receive alerts, block/allow devices, and improve USB security. | ![USB Monitor](assets/usb-monitor-demo.gif) |
-
 | [**Remote Access Trojan (RAT)**](https://github.com/CyberNilsen/Remote-Access-Trojan) | Educational RAT project for learning about remote access and pentesting.<br> Demonstrates remote control, file transfer, and command execution. | ![RAT](assets/rat-demo.gif) |
 | [**Ransomware (Edu)**](https://github.com/CyberNilsen/Ransomware) | Project exploring ransomware behavior (strictly for educational purposes).<br> Investigate encryption, persistence, and mitigation techniques. | ![Ransomware](assets/ransomware-demo.gif) |
 | [**RoachBuddy**](https://github.com/CyberNilsen/RoachBuddy) | BonziBuddy-inspired desktop companion.<br> Fun, interactive character for your desktop with unique features. | ![RoachBuddy](assets/roachbuddy-demo.gif) |
