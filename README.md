@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e2233&height=180&section=header&text=Andreas%20Nilsen%20(CyberNilsen)&fontSize=40&fontAlign=50&desc=Cybersecurity%20Enthusiast%20%7C%20Developer%20%7C%20Norway%20🇳🇴&descSize=20&descAlign=50&fontColor=ffffff&descFontColor=ffffff&descPadding=4110" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e2233&height=220&section=header&text=Andreas%20Nilsen%20(CyberNilsen)&fontSize=40&fontAlign=50&desc=Cybersecurity%20Enthusiast%20%7C%20Developer%20%7C%20Norway%20🇳🇴&descSize=20&descAlign=50&fontColor=ffffff&descFontColor=ffffff&descPadding=80" alt="Banner"/>
 </p>
 
 # Hi 👋, I'm Andreas Nilsen
