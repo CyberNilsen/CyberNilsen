@@ -80,8 +80,8 @@ I'm familiar with working with databases in various projects:
 
 ## 📫 Connect With Me
 
-<a href="mailto:andreasnilsen07@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a> <p>andreasnilsen07@hotmail.com</p>
-<a href="https://cybernilsen.github.io/Andreas-Nettside/"><img src="https://img.shields.io/badge/Website-181717?style=flat&logo=githubpages"></a><p>cybernilsen.github.io/Andreas-Nettside</p>
+- 💌 Email: [andreasnilsen07@hotmail.com](mailto:andreasnilsen07@hotmail.com)
+- 🌐 Website: [cybernilsen.github.io](https://cybernilsen.github.io/Andreas-Nettside/)
 
 ---
 
