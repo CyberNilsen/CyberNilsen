@@ -36,7 +36,7 @@ Here are some of the key projects I've been working on:
 
 | Project | Description | Preview |
 |---|---|---|
-| [**CyberVault**](https://github.com/CyberNilsen/CyberVault) | Secure vault for managing passwords and other tools.<br> • [CyberVault Website](https://github.com/CyberNilsen/CyberVault-website): Website for the program<br> • [CyberVault Extension](https://github.com/user-attachments/assets/ad8568e6-56e0-4c2e-8e61-1d12526c7188)) |
+| [**CyberVault**](https://github.com/CyberNilsen/CyberVault) | Secure vault for managing passwords and other tools.<br> • [CyberVault Website](https://github.com/CyberNilsen/CyberVault-website): Website for the program<br> • [CyberVault Extension](https://github.com/CyberNilsen/CyberVault-Extension) | ![CyberVault Preview](https://github.com/user-attachments/assets/ad8568e6-56e0-4c2e-8e61-1d12526c7188) |
 | [**CyberTools**](https://github.com/CyberNilsen/CyberTools) | A collection of cybersecurity tools built with C# and Python.<br> Tools to assist with security auditing, automation, and penetration testing. | ![CyberTools](assets/cybertools-demo.gif) |
 | [**USB Monitor**](https://github.com/CyberNilsen/USB-Monitor) | A Windows utility to monitor and control USB device connections.<br> Receive alerts, block/allow devices, and improve USB security. | ![USB Monitor](assets/usb-monitor-demo.gif) |
 | [**Remote Access Trojan (RAT)**](https://github.com/CyberNilsen/Remote-Access-Trojan) | Educational RAT project for learning about remote access and pentesting.<br> Demonstrates remote control, file transfer, and command execution. | ![RAT](assets/rat-demo.gif) |
@@ -46,7 +46,7 @@ Here are some of the key projects I've been working on:
 | [**C++ Projects**](https://github.com/CyberNilsen/CPP-projects) | Exploring and learning C++ through mini-projects.<br> Includes algorithms, utilities, and more. | ![C++](assets/cpp-projects-demo.png) |
 | [**Rust Projects**](https://github.com/CyberNilsen/Rust) | Exploring and learning Rust through mini-projects.<br> Experimenting with Rust's safety and concurrency features. | ![Rust](assets/rust-projects-demo.png) |
 | [**My Website**](https://cybernilsen.github.io/Andreas-Nettside/) | A personal website showcasing my work and contact info.<br> Portfolio, skills, and project highlights. | ![Website](assets/website-demo.png) |
-| [**School Project – PHP**](https://github.com/CyberNilsen/Oppdag-Norge-databasenettside) | A PHP project where I learned backend basics and login security.<br> Features authentication, SQL, and dynamic web content. | ![PHP Project]([assets/php-project-demo.png](https://github.com/user-attachments/assets/ad8568e6-56e0-4c2e-8e61-1d12526c7188)) |
+| [**School Project – PHP**](https://github.com/CyberNilsen/Oppdag-Norge-databasenettside) | A PHP project where I learned backend basics and login security.<br> Features authentication, SQL, and dynamic web content. | ![PHP Project](assets/php-project-demo.png) |
 
 ---
 
