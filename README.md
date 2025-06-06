@@ -34,7 +34,7 @@ Here are some of the key projects I've been working on:
 - **[CyberVault](https://github.com/CyberNilsen/CyberVault)** — Secure vault for managing passwords and other tools  
   <details>
     <summary>Show more</summary>
-  
+  <br>
     - [Website](https://github.com/CyberNilsen/CyberVault-website)
     - [Extension](https://github.com/CyberNilsen/CyberVault-Extension)
 
