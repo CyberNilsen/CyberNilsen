@@ -32,40 +32,21 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 Here are some of the key projects I've been working on:
 
 
+## 💻 Projects Showcase
+
 | Project | Description | Preview |
 |---|---|---|
 | [**CyberVault**](https://github.com/CyberNilsen/CyberVault) | Secure vault for managing passwords and other tools.<br> • [CyberVault Website](https://github.com/CyberNilsen/CyberVault-website): Website for the program<br> • [CyberVault Extension](https://github.com/CyberNilsen/CyberVaultExtension): Browser extension | ![CyberVault](assets/cybervault-demo.gif) |
-| [**CyberChat**](https://github.com/CyberNilsen/CyberChat) | Secure chatting program focused on privacy and encryption. | ![CyberChat](assets/cyberchat-demo.gif) |
-
-- [**CyberTools**](https://github.com/CyberNilsen/CyberTools)  
-  A collection of cybersecurity tools built with C# and Python.
-
-- [**USB Monitor**](https://github.com/CyberNilsen/USB-Monitor)  
-  A Windows utility to monitor and control USB device connections.
-
-- [**Remote Access Trojan (RAT)**](https://github.com/CyberNilsen/Remote-Access-Trojan)  
-  An educational RAT project for learning about remote access and pentesting.
-
-- [**Ransomware**](https://github.com/CyberNilsen/Ransomware)  
-  A project exploring ransomware behavior (strictly for educational purposes).
-
-- [**RoachBuddy**](https://github.com/CyberNilsen/RoachBuddy) <br>
-  Creating a BonziBuddy like copy but a little diffrent.
-
-- [**Wifi Commands for Kali**](https://github.com/CyberNilsen/Wifi-Commands-Kali)  
-  Simplified command helper for WiFi pentesting on Kali Linux.
-
-- [**C++ Projects**](https://github.com/CyberNilsen/CPP-projects)  
-  Exploring and learning C++ through mini-projects.
-
-- [**Rust Projects**](  https://github.com/CyberNilsen/Rust)  
-  Exploring and learning Rust through mini-projects.
-
-- [**My Website**](https://cybernilsen.github.io/Andreas-Nettside/)  
-  A personal website showcasing my work and contact info.
-
-- [**School Project – PHP**](https://github.com/CyberNilsen/Oppdag-Norge-databasenettside)  
-  A PHP project where I learned backend basics and login security.
+| [**CyberTools**](https://github.com/CyberNilsen/CyberTools) | A collection of cybersecurity tools built with C# and Python.<br> Tools to assist with security auditing, automation, and penetration testing. | ![CyberTools](assets/cybertools-demo.gif) |
+| [**USB Monitor**](https://github.com/CyberNilsen/USB-Monitor) | A Windows utility to monitor and control USB device connections.<br> Receive alerts, block/allow devices, and improve USB security. | ![USB Monitor](assets/usb-monitor-demo.gif) |
+| [**Remote Access Trojan (RAT)**](https://github.com/CyberNilsen/Remote-Access-Trojan) | Educational RAT project for learning about remote access and pentesting.<br> Demonstrates remote control, file transfer, and command execution. | ![RAT](assets/rat-demo.gif) |
+| [**Ransomware (Edu)**](https://github.com/CyberNilsen/Ransomware) | Project exploring ransomware behavior (strictly for educational purposes).<br> Investigate encryption, persistence, and mitigation techniques. | ![Ransomware](assets/ransomware-demo.gif) |
+| [**RoachBuddy**](https://github.com/CyberNilsen/RoachBuddy) | BonziBuddy-inspired desktop companion.<br> Fun, interactive character for your desktop with unique features. | ![RoachBuddy](assets/roachbuddy-demo.gif) |
+| [**Wifi Commands for Kali**](https://github.com/CyberNilsen/Wifi-Commands-Kali) | Simplified command helper for WiFi pentesting on Kali Linux.<br> Quick reference for wireless attacks and defenses. | ![Wifi Commands](assets/wifi-demo.png) |
+| [**C++ Projects**](https://github.com/CyberNilsen/CPP-projects) | Exploring and learning C++ through mini-projects.<br> Includes algorithms, utilities, and more. | ![C++](assets/cpp-projects-demo.png) |
+| [**Rust Projects**](https://github.com/CyberNilsen/Rust) | Exploring and learning Rust through mini-projects.<br> Experimenting with Rust's safety and concurrency features. | ![Rust](assets/rust-projects-demo.png) |
+| [**My Website**](https://cybernilsen.github.io/Andreas-Nettside/) | A personal website showcasing my work and contact info.<br> Portfolio, skills, and project highlights. | ![Website](assets/website-demo.png) |
+| [**School Project – PHP**](https://github.com/CyberNilsen/Oppdag-Norge-databasenettside) | A PHP project where I learned backend basics and login security.<br> Features authentication, SQL, and dynamic web content. | ![PHP Project](assets/php-project-demo.png) |
 
 ---
 
