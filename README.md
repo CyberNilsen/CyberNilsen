@@ -81,10 +81,6 @@ I'm familiar with working with databases in various projects:
 
 ---
 
-## Hack The Box Profile
-[![HTB Profile](https://img.shields.io/badge/Hack%20The%20Box-Profile-green?logo=hackthebox)](https://www.hackthebox.eu/home/users/profile/CyberNilsen)
-
----
 
 ## 📫 Connect With Me
 
