@@ -58,11 +58,11 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 ## 🗄️ Databases
 I'm familiar with working with databases in various projects:
 
-- MySQL — Used in web applications for secure and efficient data storage.
+- MySQL - Used in web applications for secure and efficient data storage.
 
-- SQLite — Lightweight database often used in local applications.
+- SQLite - Lightweight database often used in local applications.
 
-- MariaDB (basic experience) — Explored during backend development and testing.
+- MariaDB (basic experience) - Explored during backend development and testing.
 
 ---
 
