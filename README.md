@@ -74,7 +74,6 @@ I'm familiar with working with databases in various projects:
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CyberNilsen&theme=onedark&row=1&column=7" alt="Trophies"/>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=CyberNilsen)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberNilsen&theme=github-compact" alt="Contribution Graph"/>
