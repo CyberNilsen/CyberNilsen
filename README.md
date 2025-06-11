@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 ## 🌟 Current Focus
 
 🔭 **Currently working on:**  
-- [**CyberChat**](https://github.com/CyberNilsen/CyberChat) — A secure Chatting program. <br>
+- [**CyberChat**](https://github.com/CyberNilsen/CyberChat) - A secure Chatting program. <br>
 
 ---
 
