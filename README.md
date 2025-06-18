@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 | [RoachBuddy](https://github.com/CyberNilsen/RoachBuddy) | BonziBuddy-style fun desktop companion |
 | [Wifi Commands for Kali](https://github.com/CyberNilsen/Wifi-Commands-Kali) | Simplified WiFi pentesting helper for Kali Linux |
 | [C++ Projects](https://github.com/CyberNilsen/CPP-projects) | Learning C++ through mini-projects |
+| [CyberSnare](https://github.com/CyberNilsen/CyberSnare) | Honeypot where i learned how to create a honeypot and what it does. Coded in python. |
 | [Rust Projects](https://github.com/CyberNilsen/Rust) | Exploring Rust with hands-on projects |
 | [My Website](https://cybernilsen.github.io/Andreas-Nettside/) | Personal website, portfolio, and contact info |
 | [School Project – PHP](https://github.com/CyberNilsen/Oppdag-Norge-databasenettside) | PHP backend basics and login security |
