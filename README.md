@@ -6,7 +6,7 @@
 
 ### Passionate Programmer & Cybersecurity Enthusiast from Norway 🇳🇴
 
-Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, and **Python**. I enjoy exploring new technologies, developing tools, solving problems, and sharing knowledge with others.
+Welcome to my GitHub profile! I'm passionate about **cybersecurity/ethical hacking**, **C#**, and **Python**. I enjoy exploring new technologies, developing tools, solving problems, and sharing knowledge with others.
 
 ---
 
