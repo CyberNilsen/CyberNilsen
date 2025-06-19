@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **C#**, an
 | [CyberVault](https://github.com/CyberNilsen/CyberVault) | Password manager ([CyberVault Website](https://github.com/CyberNilsen/CyberVault-website), [Google Extension](https://github.com/CyberNilsen/CyberVaultExtension)) |
 | [CyberTools](https://github.com/CyberNilsen/CyberTools) | Cybersecurity tool collection (C#, Python) |
 | [CyberScanner](https://github.com/CyberNilsen/CyberScanner) | A lightweight TCP port scanner built with Qt and C++ for network reconnaissance and security testing |
-| [CyberSnare](https://github.com/CyberNilsen/CyberSnare) | Honeypot where i learned how to create a honeypot and what it does. Built in python. |
+| [CyberSnare](https://github.com/CyberNilsen/CyberSnare) | CyberSnare – Lightweight Flask honeypot that simulates a secure admin panel with fake system settings, session logic, and SendGrid email alerts. Designed for cybersecurity learning and testing. |
 | [Remote Access Trojan (RAT)](https://github.com/CyberNilsen/Remote-Access-Trojan) | Remote Access Trojan is a lightweight Remote Access Tool (RAT) built in Python |
 | [Ransomware](https://github.com/CyberNilsen/Ransomware) | A Python-based educational tool designed to learn how ransomware works in a controlled environment. |
 | [USB Monitor](https://github.com/CyberNilsen/USB-Monitor) | Monitor/control USB device connections on Windows |
