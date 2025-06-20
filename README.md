@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity/ethical hacki
 ## 🌟 Current Focus
 
 🔭 **Currently working on:**  
-- [**CyberChat**](https://github.com/CyberNilsen/CyberChat) - A secure Chatting program. <br>
 - [**CyberBLE**](https://github.com/CyberNilsen/CyberBLE) - A BLE (Bluetooth Low Energy) Scanner built with python. <br>
 
 
@@ -34,19 +33,19 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity/ethical hacki
 | Project | Description |
 |---------|-------------|
 | [CyberVault](https://github.com/CyberNilsen/CyberVault) | Password manager ([CyberVault Website](https://github.com/CyberNilsen/CyberVault-website), [Google Extension](https://github.com/CyberNilsen/CyberVaultExtension)) |
-| [CyberTools](https://github.com/CyberNilsen/CyberTools) | Cybersecurity tool collection (C#, Python) |
-| [CyberScanner](https://github.com/CyberNilsen/CyberScanner) | A lightweight TCP port scanner built with Qt and C++ for network reconnaissance and security testing |
+| [CyberChat](https://github.com/CyberNilsen/CyberChat) | A secure Chatting program. |
 | [CyberSnare](https://github.com/CyberNilsen/CyberSnare) | CyberSnare – Lightweight Flask honeypot that simulates a secure admin panel with fake system settings, session logic, and SendGrid email alerts. Designed for cybersecurity learning and testing. |
+| [CyberScanner](https://github.com/CyberNilsen/CyberScanner) | A lightweight TCP port scanner built with Qt and C++ for network reconnaissance and security testing |
 | [CyberSteganography](https://github.com/CyberNilsen/CyberSteganography) | CyberSteganography – A Python-based GUI tool to hide secret messages inside images using steganography with optional password encryption. Supports PNG, BMP, JPG formats and drag & drop for ease of use. Ideal for learning and practical info hiding. |
+| [Wifi Commands for Kali](https://github.com/CyberNilsen/Wifi-Commands-Kali) | Simplified WiFi pentesting helper for Kali Linux |
+| [CyberTools](https://github.com/CyberNilsen/CyberTools) | Cybersecurity tool collection (C#, Python) |
+| [School Project – PHP](https://github.com/CyberNilsen/Oppdag-Norge-databasenettside) | PHP backend basics and login security |
 | [Remote Access Trojan (RAT)](https://github.com/CyberNilsen/Remote-Access-Trojan) | Remote Access Trojan is a lightweight Remote Access Tool (RAT) built in Python |
 | [Ransomware](https://github.com/CyberNilsen/Ransomware) | A Python-based educational tool designed to learn how ransomware works in a controlled environment. |
 | [USB Monitor](https://github.com/CyberNilsen/USB-Monitor) | Monitor/control USB device connections on Windows |
 | [RoachBuddy](https://github.com/CyberNilsen/RoachBuddy) | BonziBuddy-style fun desktop companion |
-| [Wifi Commands for Kali](https://github.com/CyberNilsen/Wifi-Commands-Kali) | Simplified WiFi pentesting helper for Kali Linux |
-| [C++ Projects](https://github.com/CyberNilsen/CPP-projects) | Learning C++ through mini-projects |
 | [Rust Projects](https://github.com/CyberNilsen/Rust) | Exploring Rust with hands-on projects |
 | [My Website](https://cybernilsen.github.io/Andreas-Nettside/) | Personal website, portfolio, and contact info |
-| [School Project – PHP](https://github.com/CyberNilsen/Oppdag-Norge-databasenettside) | PHP backend basics and login security |
 
 > ⚠️ **Note:** Some repositories (e.g., [Remote Access Trojan (RAT)](https://github.com/CyberNilsen/Remote-Access-Trojan), [Ransomware](https://github.com/CyberNilsen/Ransomware)) are for educational and research purposes only. **Do not use them maliciously.**
 
