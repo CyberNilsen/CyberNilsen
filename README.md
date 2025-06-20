@@ -87,9 +87,6 @@ I'm familiar with working with databases in various projects:
 
 ## 📫 Connect With Me
 
-- 💌 Email: [andreasnilsen07@hotmail.com](mailto:andreasnilsen07@hotmail.com)
-- 🌐 Website: [cybernilsen.github.io](https://cybernilsen.github.io/Andreas-Nettside/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreas-nilsen-66a719370/)
 [![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cybernilsen.github.io/Andreas-Nettside/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreasnilsen07@hotmail.com)
