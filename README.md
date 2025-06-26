@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity/ethical hacki
 ## 🌟 Current Focus
 
 🔭 **Currently working on:**  
-- [**CyberCookies**](https://github.com/CyberNilsen/CyberCookies) - A website thats made for learning how cookies work <br>
+- [**CyberBrowser**](https://github.com/CyberNilsen/CyberBrowser) - A python program built with pyqt5 which can be used as a "tor router" or a normal browser without tons of tracking. <br>
 
 
 ---
