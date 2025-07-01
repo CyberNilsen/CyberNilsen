@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity/ethical hacki
 ## 🌟 Current Focus
 
 🔭 **Currently working on:**  
-- [**CyberBrowser**](https://github.com/CyberNilsen/CyberBrowser) - A python program built with pyqt5 which can be used as a "tor router" or a normal browser without tons of tracking. <br>
+- [**Hacker101 CTF Solutions**](https://github.com/CyberNilsen/hacker101-CTF-Solutions) - Solutions for Hacker101 CTF <br>
 
 
 ---
