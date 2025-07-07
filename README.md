@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity/ethical hacki
 
 🔭 **Currently working on:**  
 - [**Hacker101 CTF Solutions**](https://github.com/CyberNilsen/hacker101-CTF-Solutions) - Solutions for Hacker101 CTF <br>
-- [**CyberSentry**](https://github.com/CyberNilsen/CyberSentry) - Automated scanner that scans for secrets and etc in your github repo
 
 
 ---
