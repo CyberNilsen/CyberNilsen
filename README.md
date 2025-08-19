@@ -14,6 +14,8 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity/ethical hacki
 
 🔭 **Currently working on:**  
 - [**CyberVault**](https://github.com/CyberNilsen/CyberVault) - Password manager
+- [**Symphex**](https://github.com/CyberNilsen/Symphex) - Music Downloader
+
 
 
 ---
