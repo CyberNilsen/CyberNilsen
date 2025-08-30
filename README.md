@@ -35,8 +35,7 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity/ethical hacki
 | Project | Description |
 |---------|-------------|
 | [CyberVault](https://github.com/CyberNilsen/CyberVault) | Password manager ([CyberVault Website](https://github.com/CyberNilsen/CyberVault-website), [Google Extension](https://github.com/CyberNilsen/CyberVaultExtension)) |
-| [CyberInject](https://github.com/CyberNilsen/CyberInject) | A comprehensive browser extension designed for authorized security testing and penetration testing activities. CyberInject provides quick access to common security payloads across multiple 
-vulnerability categories. |
+| [CyberInject](https://github.com/CyberNilsen/CyberInject) | A comprehensive browser extension designed for authorized security testing and penetration testing activities. CyberInject provides quick access to common security payloads across multiple vulnerability categories. |
 | [CyberRecon](https://github.com/CyberNilsen/CyberRecon) | Advanced WHOIS, IP lookup & DNS reconnaissance tool for security research |
 | [CyberSnare](https://github.com/CyberNilsen/CyberSnare) | CyberSnare – Lightweight Flask honeypot that simulates a secure admin panel with fake system settings, session logic, and SendGrid email alerts. Designed for cybersecurity learning and testing. |
 | [CyberScanner](https://github.com/CyberNilsen/CyberScanner) | A lightweight TCP port scanner built with Qt and C++ for network reconnaissance and security testing |
